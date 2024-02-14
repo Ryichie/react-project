@@ -1,0 +1,10 @@
+{
+    "firstName": "Richard",
+    "lastName": "Pech",
+    "uni": "UNSW",
+    "yearOfStudy": 2,
+    "projects": [
+        "this react page",
+        "backend server"
+    ]
+}

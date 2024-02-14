@@ -3,7 +3,7 @@ export default function Skills () {
     <section id="skills">
       <div>
           <h1>SKILLS</h1>
-          <p>saucy</p>
+          <p>test</p>
       </div>
     </section>
     );  

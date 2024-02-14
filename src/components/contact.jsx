@@ -3,7 +3,7 @@ export default function Contact () {
     <section id="contact">
       <div>
         <h1>CONTACT</h1>
-        <p>saucy</p>
+        <p>test</p>
       </div>
     </section>
   );   
