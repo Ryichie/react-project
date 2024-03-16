@@ -2,9 +2,14 @@
     "firstName": "Richard",
     "lastName": "Pech",
     "uni": "UNSW",
-    "yearOfStudy": 2,
+    "yearOfStudy": "2nd",
     "projects": [
         "this react page",
         "backend server"
+    ],
+    "degree": "Bachelors of Advanced Science (Honours) / Bachelors of Computer Science",
+    "learning": [
+        "Quantum Computing",
+        "Complex Analysis"
     ]
 }
